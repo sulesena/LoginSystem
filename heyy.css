@@ -1,0 +1,32 @@
+body{
+	color: red;
+	background-color:white ;
+	margin: 50px;
+	padding: 30px;
+}
+h1{
+	text-align: center;
+	font-size: 50px;
+	color: red ;
+	font-size: 25px;
+	margin: 40px;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+form{
+	margin: 20px auto;
+	margin-left: 20px;
+	width: 420px;
+	color:#7D3C98 ; 
+	width: 10px;
+	right: 15px;
+	left: 50px;
+	border-top: 10px;
+
+}
+input{
+	padding:10px;
+	font-size: inherit;
+	margin: 0px;
+	padding: 0px;
+}
